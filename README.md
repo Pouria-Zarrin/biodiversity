@@ -4,13 +4,6 @@
 
 The goal of this project is to analyze biodiversity data provided by the National Parks Service, focusing on species observed across various national park locations. By examining this data, we aim to uncover patterns related to species conservation status, prevalence, and distribution. This project involves scoping, analyzing, preparing, plotting data, and interpreting the findings to provide insights into biodiversity and species conservation efforts within national parks.
 
-Key questions this project seeks to address include:
-
-- What is the distribution of conservation status for various species?
-- Are certain types of species more likely to be endangered?
-- Are there significant differences between species and their conservation status?
-- Which animal species are most prevalent, and what is their distribution across different parks?
-
 ### Data Sources
 
 The datasets utilized in this project are `Species_info.csv` and `Observations.csv`, provided by [Codecademy.com](https://www.codecademy.com). While inspired by real-world data, the datasets are primarily fictional and intended for educational purposes.
